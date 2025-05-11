@@ -1,0 +1,14 @@
+{
+  "name": "1nga-documentation",
+  "version": "1.0.0",
+  "description": "Documentation for the 1nga e-commerce platform",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.31"
+  }
+} 

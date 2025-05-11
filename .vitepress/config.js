@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: '1nga Documentation',
-  description: 'Documentation for the 1nga e-commerce platform',
+  description: 'Documentation for 1nga e-commerce platform',
   ignoreDeadLinks: true,
   themeConfig: {
     logo: '/logo.svg',
